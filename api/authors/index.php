@@ -26,4 +26,3 @@ switch($method) {
         echo json_encode(['message' => 'Request method not supported']);
         break;
 }
-?>
