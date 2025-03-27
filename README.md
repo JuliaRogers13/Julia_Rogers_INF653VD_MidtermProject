@@ -49,7 +49,6 @@ Despite all efforts to configure everything correctly, Render failed to resolve 
 You can view the deployed API (Render may fail to connect to the database due to internal networking limits):
 
 🔗 [Live Site on Render](https://julia-rogers-inf653vd-midtermproject.onrender.com/)
-)
 
 ## Author
 
