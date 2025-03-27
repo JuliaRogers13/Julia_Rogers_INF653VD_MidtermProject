@@ -44,6 +44,17 @@ Despite all efforts to configure everything correctly, Render failed to resolve 
 
 [Link to this repository](https://github.com/JuliaRogers13/Julia_Rogers_INF653VD_MidtermProject)
 
+## Live Deployment
+
+You can view the deployed API (Render may fail to connect to the database due to internal networking limits):
+
+🔗 [Live Site on Render](## Live Deployment
+
+You can view the deployed API (Render may fail to connect to the database due to internal networking limits):
+
+🔗 [Live Site on Render](https://julia-rogers-inf653vd-midtermproject.onrender.com/)
+)
+
 ## Author
 
 **Julia Rogers**
